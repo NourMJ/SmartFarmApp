@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683726739678",
+    "project_id": "smartfarm-4093b",
+    "storage_bucket": "smartfarm-4093b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683726739678:android:b8904958d503057974ca4f",
+        "android_client_info": {
+          "package_name": "com.example.smartfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-L_gIYhwOC67DG5AHcY6_zjlmv1ZfZME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
